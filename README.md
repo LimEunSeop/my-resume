@@ -40,7 +40,7 @@
 
 ### 개인 프로젝트
 - [React Mini Projects](https://github.com/LimEunSeop/React-Mini-Projects) (2020.07 ~ 2020.08)
-  - [E.UID](https://euid.dev/) 교육 수강시 진행한 프로젝트 산출물
+  - [이듬](https://euid.dev/) 블랜디드 러닝 교육 수강시 진행한 프로젝트 산출물
   - React 와 관련하여 실무에서 사용할 수 있는 기술 및 지식을 학습하였습니다.
   - ![React](https://img.shields.io/badge/-React-63B5F4)
 ![ES6+](https://img.shields.io/badge/-ES6+-029A67)
