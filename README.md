@@ -78,7 +78,7 @@
 ### 외부교육
 - [이듬 블랜디드 러닝 - React Framework](https://euid.dev/#/courses/react-framework) (2020.07 ~ 2020.08)
   - 접근성 준수한 React Framework 을 실무에서 활용하는 수준으로 심도있게 교육.
-  - 산출물 : https://github.com/LimEunSeop/TIL-React-Framework
+  - 산출물 : [TIL-React-Framework](https://github.com/LimEunSeop/TIL-React-Framework), [React-Mini-Projects](https://github.com/LimEunSeop/React-Mini-Projects)
 - [코드스피츠 3기](https://www.bsidesoft.com/6902) (2018.09)
   - CSS, ES6+ 에 대한 심도있는 접근 교육
 - [[FASTCAMPUS] 야무와 함께하는 프론트엔드 개발 시작하기 CAMP](https://github.com/yamoo9/front-end-programming-camp) (2018.07 ~ 2018.10)
