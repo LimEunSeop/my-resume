@@ -1,17 +1,10 @@
 # 임은섭 ![Job](https://img.shields.io/badge/looking__for__job-true-blue.svg)
 프론트엔드 엔지니어
 
-<<<<<<< HEAD
 <a href="mailto:dmstjq92@gmail.com" target="_blank">![Email](https://img.shields.io/badge/email-dmstjq92@gmail.com-ea4335.svg)</a>
 <a href="https://medium.com/@dmstjq92" target="_blank">![Blog](https://img.shields.io/badge/blog-medium.com/@dmstjq92-303030.svg)</a>
 <a href="https://github.com/LimEunSeop" target="_blank">![Github](https://img.shields.io/badge/github-LimEunSeop-white.svg)</a>
 <a href="https://www.rocketpunch.com/@eunseoplim" target="_blank">![Rocketpunch](https://img.shields.io/badge/Rocketpunch-eunseoplim-4e61ff.svg)</a>
-=======
-<a href="mailto:dmstjq92@gmail.com">![Email](https://img.shields.io/badge/email-dmstjq92@gmail.com-ea4335.svg)</a>
-<a href="https://medium.com/@dmstjq92">![Blog](https://img.shields.io/badge/blog-medium.com/@dmstjq92-303030.svg)</a>
-<a href="https://github.com/LimEunSeop">![Github](https://img.shields.io/badge/github-LimEunSeop-white.svg)</a>
-<a href="https://www.rocketpunch.com/@eunseoplim">![Rocketpunch](https://img.shields.io/badge/Rocketpunch-eunseoplim-4e61ff.svg)</a>
->>>>>>> b7bbb496ac09a9c4eeb9cbf9f3bb292a7f5c7b91
 
 ## Summary
 
