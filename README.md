@@ -55,7 +55,7 @@
 
 - [포트폴리오 사이트 제작](https://github.com/LimEunSeop/limeunseop.github.io) (2020.11 ~ 2020.11)
   - 여러곳에 분산돼 있는 경험(이력서, 포트폴리오)이 한 곳이 모인 Entry Point Site.
-  - 초기에는 간단한 1페이지로 예상되나, 확장성을 고려하고 유지보수의 이점을 취하기 위해 SPA 형태의 React 로 개발할 예정입니다. 또한 크롤링 하는 데이터가 정형화된 포맷을 꼭 따라야 하므로 TypeScript 로 개발을 진행할 것입니다.
+  - 초기에는 간단한 1페이지로 예상되나, 확장성을 고려하고 유지보수의 이점을 취하기 위해 SPA 형태의 React 로 개발하였습니다. 또한 크롤링 하는 데이터가 정형화된 포맷을 꼭 따라야 하므로 TypeScript 을 사용하였습니다.
   - ![React](https://img.shields.io/badge/-React-63B5F4)
 ![ES6+](https://img.shields.io/badge/-ES6+-029A67)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D0BF6)
