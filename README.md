@@ -26,7 +26,7 @@
 ![PHP](https://img.shields.io/badge/-PHP-red)
 ![MySQL](https://img.shields.io/badge/-MySQL-blue)
 
-- [MYFIT](http) (2020.09) - Front-end Developer
+- [MYFIT](https://myfit.xyz) (2020.09) - Front-end Developer
   - 의류 사이즈 추천 API 솔루션의 Front-end 모달 개발, 테스팅 소스코드 개발
   - 레이아웃 체계화에 대한 깊은 고민, 단위 • 통합 테스트의 중요성 숙지
   - ![React](https://img.shields.io/badge/-React-63B5F4)
