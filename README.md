@@ -102,9 +102,12 @@
 - NoSQL
   - ![MongoDB](https://img.shields.io/badge/-MongoDB-4FA09E)
 
-### Platforms
+### Cloud Services
 
-![Docker](https://img.shields.io/badge/-Docker-3E9ACC) ![Firebase](https://img.shields.io/badge/-Firebase-98020B)
+- PaaS
+  - ![Docker](https://img.shields.io/badge/-Docker-3E9ACC)
+- BaaS
+  - ![Firebase](https://img.shields.io/badge/-Firebase-98020B)
 
 ### OS
 
