@@ -19,7 +19,7 @@
 
 ### 직무 경험
 
-- [Ubion](http://www.ubion.co.kr/ubion/) (2018.05 ~ 2020.06) - Web Developer
+- [Ubion](http://www.ubion.co.kr/ubion/) (2018.05 ~ 2020.06) - <span class="test">Web Developer</span>
 
   - 다수 대학교의 웹 프로그램(상담,신청,진단,설문 시스템 등등..) 개발에 참여
   - 여러 유형의 프로그램들의 비즈니스 로직 파악 및 기본에 충실한 개발능력 향상
