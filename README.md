@@ -1,6 +1,8 @@
-# 임은섭 ![Job](https://img.shields.io/badge/looking__for__job-true-blue.svg)
+# 임은섭
 
 프론트엔드 개발자
+
+![looking_for_job](https://img.shields.io/badge/looking__for__job-true-blue.svg)
 
 <a href="mailto:dmstjq92@gmail.com">![Email](https://img.shields.io/badge/email-dmstjq92@gmail.com-ea4335.svg)</a>
 <a href="https://medium.com/@dmstjq92">![Blog](https://img.shields.io/badge/blog-medium.com/@dmstjq92-303030.svg)</a>
