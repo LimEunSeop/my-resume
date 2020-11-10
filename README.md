@@ -12,7 +12,7 @@
 - 웹 표준, 시멘틱 마크업, 접근성에 대한 지식이 있으며, 크로스 브라우징, 반응형 웹 개발이 가능합니다.
 - 툴 테크닉을 좋아합니다.
 - 금방 적응하고 배워 퍼포먼스를 낼 자신이 있습니다.
-- 1건의 추천사가 있습니다 : https://www.rocketpunch.com/@eunseoplim#references
+- [1건의 추천사](https://www.rocketpunch.com/@eunseoplim#references)가 있습니다
 
 ## Experience
 
