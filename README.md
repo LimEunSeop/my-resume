@@ -12,7 +12,7 @@
 - 웹 표준, 시멘틱 마크업, 접근성에 대한 지식이 있으며, 크로스 브라우징, 반응형 웹 개발이 가능합니다.
 - 툴 테크닉을 좋아합니다.
 - 금방 적응하고 배워 퍼포먼스를 낼 자신이 있습니다.
-- [1건의 추천사](https://www.rocketpunch.com/@eunseoplim#references)가 있습니다
+- [1건의 추천서](https://www.rocketpunch.com/@eunseoplim#references)가 있습니다
 
 ## Experience
 
@@ -39,7 +39,7 @@
 
 - [포트폴리오 사이트 제작](https://github.com/LimEunSeop/limeunseop.github.io) (2020.11 ~ 2020.11)
 
-  - 여러곳에 분산돼 있는 경험(이력서, 포트폴리오)이 한 곳이 모인 Entry Point Site.
+  - 여러곳에 분산돼 있는 경험(이력서, 포트폴리오)이 한 곳에 모인 Entry Point Site.
   - 초기에는 간단한 1페이지로 예상되나, 확장성을 고려하고 유지보수의 이점을 취하기 위해 SPA 형태의 React 로 개발하였습니다. 또한 크롤링 하는 데이터가 정형화된 포맷을 꼭 따라야 하므로 TypeScript 을 사용하였습니다.
   - ![React](https://img.shields.io/badge/-React-63B5F4) ![ES6+](https://img.shields.io/badge/-ES6+-029A67) ![TypeScript](https://img.shields.io/badge/-TypeScript-0D0BF6) ![HTML](https://img.shields.io/badge/-HTML-brightgreen) ![Sass](https://img.shields.io/badge/-Sass-15B232) ![Sass_Module](https://img.shields.io/badge/-Sass_Module-B6DBA4)
 
