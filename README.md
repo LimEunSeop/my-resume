@@ -24,11 +24,6 @@
   - 여러 유형의 프로그램들의 비즈니스 로직 파악 및 기본에 충실한 개발능력 향상
   - ![HTML](https://img.shields.io/badge/-HTML-brightgreen) ![CSS](https://img.shields.io/badge/-CSS-green) ![ES5](https://img.shields.io/badge/-ES5-yellowgreen) ![JQuery](https://img.shields.io/badge/-JQuery-yellow) ![Ext.js](https://img.shields.io/badge/-Ext.js-orange) ![PHP](https://img.shields.io/badge/-PHP-red) ![MySQL](https://img.shields.io/badge/-MySQL-blue)
 
-- [MYFIT](https://myfit.xyz) (2020.09) - Front-end Developer
-  - 의류 사이즈 추천 API 솔루션의 Front-end 모달 개발, 테스팅 소스코드 개발
-  - 레이아웃 체계화에 대한 깊은 고민, 단위 • 통합 테스트의 중요성 숙지
-  - ![React](https://img.shields.io/badge/-React-63B5F4) ![ES6+](https://img.shields.io/badge/-ES6+-029A67) ![Redux](https://img.shields.io/badge/-Redux-E95AE1) ![Redux-saga](https://img.shields.io/badge/-Redux--saga-CC3851) ![styled-components](https://img.shields.io/badge/-styled--components-D0BFE0) ![Jest](https://img.shields.io/badge/-Jest-36F6BB) ![HTML](https://img.shields.io/badge/-HTML-brightgreen) ![CSS](https://img.shields.io/badge/-CSS-green)
-
 ### 개인 프로젝트
 
 - [React Mini Projects](https://github.com/LimEunSeop/React-Mini-Projects) (2020.07 ~ 2020.08)
