@@ -16,11 +16,9 @@
 
 ### 직무 경험
 
-- [Ubion](http://www.ubion.co.kr/ubion/) (2018.05 ~ 2020.06) - Web Developer
-
-  - 다수 대학교의 웹 프로그램(상담,신청,진단,설문 시스템 등등..) 개발에 참여
-  - 여러 유형의 프로그램들의 비즈니스 로직 파악 및 기본에 충실한 개발능력 향상
-  - ![HTML](https://img.shields.io/badge/-HTML-brightgreen) ![CSS](https://img.shields.io/badge/-CSS-green) ![ES5](https://img.shields.io/badge/-ES5-yellowgreen) ![JQuery](https://img.shields.io/badge/-JQuery-yellow) ![Ext.js](https://img.shields.io/badge/-Ext.js-orange) ![PHP](https://img.shields.io/badge/-PHP-red) ![MySQL](https://img.shields.io/badge/-MySQL-blue)
+- [Ubion](http://www.ubion.co.kr/ubion/) - Web Developer
+  - 2018.05 ~ 2020.06
+  - 다수 대학교의 웹 프로그램(상담,신청,진단,설문 시스템 등등..) 개발에 참여하여, 여러 유형의 프로그램들의 비즈니스 로직을 파악하였고 기본에 충실한 개발능력을 배양하였습니다.
 
 ### 개인 프로젝트
 
