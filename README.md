@@ -36,7 +36,8 @@
   - 확장성을 고려하고 유지보수의 이점을 취하기 위해 SPA 형태의 React 로 개발하였습니다. 또한 크롤링 하는 데이터가 정형화된 포맷을 꼭 따라야 하므로 TypeScript 을 사용하였습니다.
   - ![React](https://img.shields.io/badge/-React-63B5F4) ![ES6+](https://img.shields.io/badge/-ES6+-029A67) ![TypeScript](https://img.shields.io/badge/-TypeScript-0D0BF6) ![HTML](https://img.shields.io/badge/-HTML-brightgreen) ![Sass](https://img.shields.io/badge/-Sass-15B232) ![Sass_Module](https://img.shields.io/badge/-Sass_Module-B6DBA4)
 
-- 음악 연습 Manager App For Tablet (예정)
+- 음악 연습 Manager App For Tablet
+  - 추후 작업 예정
   - 여러 곡의 악보를 연습하다보면 인간의 힘으로 시간분배 하는 것에 한계가 생겨 놓치는 곡이 발생합니다. 루틴을 만들고 이 루틴을 기반으로 연습을 진행해 나가도록 하는 기능을 개발할 예정입니다.
   - ![React_Native](https://img.shields.io/badge/-React_Native-896DA1) ![Expo_CLI](https://img.shields.io/badge/-Expo_CLI-47A3B9) ![TypeScript](https://img.shields.io/badge/-TypeScript-0D0BF6)
 
