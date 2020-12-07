@@ -28,7 +28,7 @@
   - React 와 관련하여 실무에서 사용할 수 있는 기술 및 지식을 학습하였습니다.
   - ![React](https://img.shields.io/badge/-React-63B5F4) ![ES6+](https://img.shields.io/badge/-ES6+-029A67) ![Redux](https://img.shields.io/badge/-Redux-E95AE1) ![styled-components](https://img.shields.io/badge/-styled--components-D0BFE0) ![Jest](https://img.shields.io/badge/-Jest-36F6BB) ![Context API](https://img.shields.io/badge/-Context_API-D8555F) ![HTML](https://img.shields.io/badge/-HTML-brightgreen) ![Sass](https://img.shields.io/badge/-Sass-15B232) ![Sass_Module](https://img.shields.io/badge/-Sass_Module-B6DBA4) ![Firebase](https://img.shields.io/badge/-Firebase-F90D57)
 
-- [포트폴리오 사이트 제작](https://github.com/LimEunSeop/limeunseop.github.io) (2020.11 ~ 2020.11)
+- [포트폴리오 사이트 제작](https://github.com/LimEunSeop/limeunseop.github.io) (2020.11 ~ 2020.12)
 
   - 여러곳에 분산돼 있는 경험(이력서, 포트폴리오)이 한 곳에 모인 Entry Point Site.
   - 초기에는 간단한 1페이지로 예상되나, 확장성을 고려하고 유지보수의 이점을 취하기 위해 SPA 형태의 React 로 개발하였습니다. 또한 크롤링 하는 데이터가 정형화된 포맷을 꼭 따라야 하므로 TypeScript 을 사용하였습니다.
