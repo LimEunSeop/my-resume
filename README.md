@@ -22,16 +22,18 @@
 
 ### 개인 프로젝트
 
-- [React Mini Projects](https://github.com/LimEunSeop/React-Mini-Projects) (2020.07 ~ 2020.08)
+- [React Mini Projects](https://github.com/LimEunSeop/React-Mini-Projects)
 
+  - 2020.07 ~ 2020.08
   - [이듬](https://euid.dev/) 블랜디드 러닝 교육 수강시 진행한 프로젝트 산출물
   - React 와 관련하여 실무에서 사용할 수 있는 기술 및 지식을 학습하였습니다.
   - ![React](https://img.shields.io/badge/-React-63B5F4) ![ES6+](https://img.shields.io/badge/-ES6+-029A67) ![Redux](https://img.shields.io/badge/-Redux-E95AE1) ![styled-components](https://img.shields.io/badge/-styled--components-D0BFE0) ![Jest](https://img.shields.io/badge/-Jest-36F6BB) ![Context API](https://img.shields.io/badge/-Context_API-D8555F) ![HTML](https://img.shields.io/badge/-HTML-brightgreen) ![Sass](https://img.shields.io/badge/-Sass-15B232) ![Sass_Module](https://img.shields.io/badge/-Sass_Module-B6DBA4) ![Firebase](https://img.shields.io/badge/-Firebase-F90D57)
 
-- [포트폴리오 사이트 제작](https://github.com/LimEunSeop/limeunseop.github.io) (2020.11 ~ 2020.12)
+- [포트폴리오 사이트 제작](https://github.com/LimEunSeop/limeunseop.github.io)
 
+  - 2020.11 ~ 2020.12
   - 여러곳에 분산돼 있는 경험(이력서, 포트폴리오)이 한 곳에 모인 Entry Point Site.
-  - 초기에는 간단한 1페이지로 예상되나, 확장성을 고려하고 유지보수의 이점을 취하기 위해 SPA 형태의 React 로 개발하였습니다. 또한 크롤링 하는 데이터가 정형화된 포맷을 꼭 따라야 하므로 TypeScript 을 사용하였습니다.
+  - 확장성을 고려하고 유지보수의 이점을 취하기 위해 SPA 형태의 React 로 개발하였습니다. 또한 크롤링 하는 데이터가 정형화된 포맷을 꼭 따라야 하므로 TypeScript 을 사용하였습니다.
   - ![React](https://img.shields.io/badge/-React-63B5F4) ![ES6+](https://img.shields.io/badge/-ES6+-029A67) ![TypeScript](https://img.shields.io/badge/-TypeScript-0D0BF6) ![HTML](https://img.shields.io/badge/-HTML-brightgreen) ![Sass](https://img.shields.io/badge/-Sass-15B232) ![Sass_Module](https://img.shields.io/badge/-Sass_Module-B6DBA4)
 
 - 음악 연습 Manager App For Tablet (예정)
@@ -42,25 +44,31 @@
 
 ### 학교
 
-- **의정부고등학교** (2008.03 ~ 2011.02)
+- **의정부고등학교**
 
+  - 2008.03 ~ 2011.02
   - 학교공부를 충실히 한 결과 학습능력에 관해서는 기본을 확실히 갖추게 되었습니다.
 
-- **대진대학교 컴퓨터공학과** (2011.03 ~ 2017.02)
+- **대진대학교 컴퓨터공학과**
+  - 2011.03 ~ 2017.02
   - 다방면의 IT 지식을 습득하는데 주력을 가했고, 언어는 특히 C언어를 많이 공부하여 컴퓨터구조, 메모리구조 관련하여 많은 성찰을 했습니다. 덕분에 쌓인 배경지식이 IT지식에 대한 학습력 향상에 도움되었고, 프로그래밍을 깊이있게 하는데 상당수 도움이 되었습니다.
   - 이 외에, JAVA, JSP, Spring, Linux Server, Windows Server, Cisco Networking, 웹보안, 넷보안, 파일시스템, 프로그래밍 디자인 패턴 등의 컴퓨터공학 전반적인 분야 학습하였습니다.
 
 ### 외부교육
 
-- [이듬 블랜디드 러닝 - React Framework](https://euid.dev/#/courses/react-framework) (2020.07 ~ 2020.08)
+- [이듬 블랜디드 러닝 - React Framework](https://euid.dev/#/courses/react-framework)
+  - 2020.07 ~ 2020.08
   - 접근성 준수한 React Framework 을 실무에서 활용하는 수준으로 심도있게 교육.
   - 산출물 : [TIL-React-Framework](https://github.com/LimEunSeop/TIL-React-Framework), [React-Mini-Projects](https://github.com/LimEunSeop/React-Mini-Projects)
-- [코드스피츠 3기](https://www.bsidesoft.com/6902) (2018.09)
+- [코드스피츠 3기](https://www.bsidesoft.com/6902)
+  - 2018.09
   - CSS, ES6+ 에 대한 심도있는 접근 교육
-- [[FASTCAMPUS] 야무와 함께하는 프론트엔드 개발 시작하기 CAMP](https://github.com/yamoo9/front-end-programming-camp) (2018.07 ~ 2018.10)
+- [[FASTCAMPUS] 야무와 함께하는 프론트엔드 개발 시작하기 CAMP](https://github.com/yamoo9/front-end-programming-camp)
+  - 2018.07 ~ 2018.10
   - 프론트엔드 입문에 필요한 HTML, CSS, Javascript(ES5.1, ES6+), Rest API, Github 등의 지식을 웹표준 및 접근성을 적용한 실무활용 수준까지 교육
   - 실습자료 : https://codepen.io/collection/XBRdVK
-- [벤젠워크샵](https://drive.google.com/file/d/0B-tD535n_rOfX1Iwa0RBRU9VWGM/view) (2018.03 ~ 2018.05)
+- [벤젠워크샵](https://drive.google.com/file/d/0B-tD535n_rOfX1Iwa0RBRU9VWGM/view)
+  - 2018.03 ~ 2018.05
   - 웹개발 풀스택에 관한 전반적인 내용 교육
 
 <!-- 스터디 시작하면 제목 추가 ## Activities -->
