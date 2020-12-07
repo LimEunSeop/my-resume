@@ -38,6 +38,7 @@
 
 - 음악 연습 Manager App For Tablet
   - 추후 작업 예정
+  - 음악 연습 루틴 관리, 알람을 통한 체계적인 연습을 가능토록 해주는 App.
   - 여러 곡의 악보를 연습하다보면 인간의 힘으로 시간분배 하는 것에 한계가 생겨 놓치는 곡이 발생합니다. 루틴을 만들고 이 루틴을 기반으로 연습을 진행해 나가도록 하는 기능을 개발할 예정입니다.
   - ![React_Native](https://img.shields.io/badge/-React_Native-896DA1) ![Expo_CLI](https://img.shields.io/badge/-Expo_CLI-47A3B9) ![TypeScript](https://img.shields.io/badge/-TypeScript-0D0BF6)
 
