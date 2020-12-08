@@ -68,7 +68,7 @@
 - [[FASTCAMPUS] 야무와 함께하는 프론트엔드 개발 시작하기 CAMP](https://github.com/yamoo9/front-end-programming-camp)
   - 2018.07 ~ 2018.10
   - 프론트엔드 입문에 필요한 HTML, CSS, Javascript(ES5.1, ES6+), Rest API, Github 등의 지식을 웹표준 및 접근성을 적용한 실무활용 수준까지 교육
-  - 실습자료 : https://codepen.io/collection/XBRdVK
+  - 실습자료 : [https://codepen.io/collection/XBRdVK](https://codepen.io/collection/XBRdVK)
 - [벤젠워크샵](https://drive.google.com/file/d/0B-tD535n_rOfX1Iwa0RBRU9VWGM/view)
   - 2018.03 ~ 2018.05
   - 웹개발 풀스택에 관한 전반적인 내용 교육
