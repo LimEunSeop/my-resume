@@ -87,7 +87,7 @@
 ### Frameworks and Libraries
 
 - 프론트엔드 개발
-  - ![React](https://img.shields.io/badge/-React-63B5F4) ![JQuery](https://img.shields.io/badge/-JQuery-yellow) ![Ext.js](https://img.shields.io/badge/-Ext.js-orange) ![Emotion](https://img.shields.io/badge/-Emotion-0B14C5) ![styled-components](https://img.shields.io/badge/-styled--components-D0BFE0) ![Cytoscape.js](https://img.shields.io/badge/-Cytoscape.js-A389C2)
+  - ![React](https://img.shields.io/badge/-React-63B5F4) ![JQuery](https://img.shields.io/badge/-JQuery-yellow) ![Ext.js](https://img.shields.io/badge/-Ext.js-orange) ![Emotion](https://img.shields.io/badge/-Emotion-0B14C5) ![styled-components](https://img.shields.io/badge/-styled--components-D0BFE0) ![Cytoscape.js](https://img.shields.io/badge/-Cytoscape.js-A389C2) ![Chart.js](https://img.shields.io/badge/-Chart.js-10ACB4)
 - 백엔드 개발
   - ![Express](https://img.shields.io/badge/-Express-01CFDE)
 - 상태관리
