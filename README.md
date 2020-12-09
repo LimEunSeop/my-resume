@@ -87,7 +87,7 @@
 ### Frameworks and Libraries
 
 - 프론트엔드 개발
-  - ![React](https://img.shields.io/badge/-React-63B5F4) ![JQuery](https://img.shields.io/badge/-JQuery-yellow) ![Ext.js](https://img.shields.io/badge/-Ext.js-orange)
+  - ![React](https://img.shields.io/badge/-React-63B5F4) ![JQuery](https://img.shields.io/badge/-JQuery-yellow) ![Ext.js](https://img.shields.io/badge/-Ext.js-orange) ![Emotion](https://img.shields.io/badge/-Emotion-0B14C5) ![styled-components](https://img.shields.io/badge/-styled--components-D0BFE0) ![Cytoscape.js](https://img.shields.io/badge/-Cytoscape.js-A389C2)
 - 백엔드 개발
   - ![Express](https://img.shields.io/badge/-Express-01CFDE)
 - 상태관리
@@ -95,7 +95,7 @@
 - 테스팅
   - ![Jest](https://img.shields.io/badge/-Jest-36F6BB)
 - Pre-Processing
-  - ![Sass](https://img.shields.io/badge/-Sass-15B232) ![Webpack](https://img.shields.io/badge/-Webpack-968D5D) ![Rollup](https://img.shields.io/badge/-Rollup-AD7F1A) ![Babel](https://img.shields.io/badge/-Babel-A82288)
+  - ![Sass](https://img.shields.io/badge/-Sass-15B232) ![Webpack](https://img.shields.io/badge/-Webpack-968D5D) ![Rollup](https://img.shields.io/badge/-Rollup-AD7F1A) ![Babel](https://img.shields.io/badge/-Babel-A82288) ![Sass_Module](https://img.shields.io/badge/-Sass_Module-B6DBA4) ![Typescript](https://img.shields.io/badge/-Typescript-0D0BF6)
 
 ### DB
 
