@@ -36,6 +36,13 @@
   - 확장성을 고려하고 유지보수의 이점을 취하기 위해 SPA 형태의 React 로 개발하였습니다. 또한 크롤링 하는 데이터가 정형화된 포맷을 꼭 따라야 하므로 TypeScript 을 사용하였습니다.
   - ![React](https://img.shields.io/badge/-React-63B5F4) ![ES6+](https://img.shields.io/badge/-ES6+-029A67) ![TypeScript](https://img.shields.io/badge/-TypeScript-0D0BF6) ![HTML](https://img.shields.io/badge/-HTML-brightgreen) ![Sass](https://img.shields.io/badge/-Sass-15B232) ![Sass_Module](https://img.shields.io/badge/-Sass_Module-B6DBA4)
 
+- [바닐라JS로 제작한 기본적인 APP](https://github.com/LimEunSeop/vanilaJS-app)
+
+  - 2020.12
+  - HTML, CSS, Javascript 만을 이용하여 심혈을 기울여 만든 프로그램입니다.
+  - 구조적으로 개발하기 위해 많은 노력을 기울였습니다. 무엇하나 대충짜지 않고 웹 표준, 접근성, 구조적인 CSS, 클래스 상속관계 전부다 녹였습니다.
+  - ![ES6+](https://img.shields.io/badge/-ES6+-029A67) ![TypeScript](https://img.shields.io/badge/-TypeScript-0D0BF6) ![HTML](https://img.shields.io/badge/-HTML-brightgreen) ![CSS](https://img.shields.io/badge/-CSS-green) ![Jest](https://img.shields.io/badge/-Jest-36F6BB)
+
 - 음악 연습 Manager App For Tablet
   - 추후 작업 예정
   - 음악 연습 루틴 관리, 알람을 통한 체계적인 연습을 가능토록 해주는 App.
