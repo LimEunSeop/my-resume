@@ -39,7 +39,7 @@
 - [바닐라JS로 제작한 기본적인 APP](https://github.com/LimEunSeop/vanilaJS-app)
 
   - 2020.12
-  - HTML, CSS, Javascript 만을 이용하여 심혈을 기울여 만든 프로그램입니다.
+  - HTML, CSS, Javascript 만을 이용하여 테스트코드까지 심혈을 기울여 만든 프로그램입니다.
   - 구조적으로 개발하기 위해 많은 노력을 기울였습니다. 무엇하나 대충짜지 않고 웹 표준, 접근성, 구조적인 CSS, 클래스 상속관계 전부다 녹였습니다.
   - ![ES6+](https://img.shields.io/badge/-ES6+-029A67) ![TypeScript](https://img.shields.io/badge/-TypeScript-0D0BF6) ![HTML](https://img.shields.io/badge/-HTML-brightgreen) ![CSS](https://img.shields.io/badge/-CSS-green) ![Jest](https://img.shields.io/badge/-Jest-36F6BB)
 
