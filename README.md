@@ -16,16 +16,16 @@
 
 ### 직무 경험
 
-- [Ubion](http://www.ubion.co.kr/ubion/) - Web Developer
+- [Ubion](http://www.ubion.co.kr/ubion/) - 풀스택
   - 2018.05 ~ 2020.06
-  - 다수 대학교의 웹 프로그램(상담,신청,진단,설문 시스템 등등..) 개발에 참여하여, 여러 유형의 프로그램들의 비즈니스 로직을 파악하였고 기본에 충실한 개발능력을 배양하였습니다.
+  - 다수 대학교의 웹 프로그램(상담,신청,진단,설문 시스템 등등..) 백엔드와 더불어 화면단 개발에 참여하여, 여러 유형의 프로그램들의 비즈니스 로직을 파악하였고 기본에 충실한 개발능력을 배양하였습니다.
 
 ### 개인 프로젝트
 
 - [React Mini Projects](https://github.com/LimEunSeop/React-Mini-Projects)
 
   - 2020.07 ~ 2020.08
-  - [이듬](https://euid.dev/) 블랜디드 러닝 교육 수강시 진행한 프로젝트 산출물
+  - React 로 제작한 간단한 메뉴, 뮤직플레이어, 채팅앱
   - React 와 관련하여 실무에서 사용할 수 있는 기술 및 지식을 학습하였습니다.
   - ![React](https://img.shields.io/badge/-React-63B5F4) ![ES6+](https://img.shields.io/badge/-ES6+-029A67) ![Redux](https://img.shields.io/badge/-Redux-E95AE1) ![styled-components](https://img.shields.io/badge/-styled--components-D0BFE0) ![Jest](https://img.shields.io/badge/-Jest-36F6BB) ![Context API](https://img.shields.io/badge/-Context_API-D8555F) ![HTML](https://img.shields.io/badge/-HTML-brightgreen) ![Sass](https://img.shields.io/badge/-Sass-15B232) ![Sass_Module](https://img.shields.io/badge/-Sass_Module-B6DBA4) ![Firebase](https://img.shields.io/badge/-Firebase-F90D57)
 
@@ -65,10 +65,11 @@
 
 ### 외부교육
 
-- [이듬 블랜디드 러닝 - React Framework](https://euid.dev/#/courses/react-framework)
+<!-- - [이듬 블랜디드 러닝 - React Framework](https://euid.dev/#/courses/react-framework)
   - 2020.07 ~ 2020.08
   - 접근성 준수한 React Framework 을 실무에서 활용하는 수준으로 심도있게 교육.
   - 산출물 : [TIL-React-Framework](https://github.com/LimEunSeop/TIL-React-Framework), [React-Mini-Projects](https://github.com/LimEunSeop/React-Mini-Projects)
+-->
 - [코드스피츠 3기](https://www.bsidesoft.com/6902)
   - 2018.09
   - CSS, ES6+ 에 대한 심도있는 접근 교육
