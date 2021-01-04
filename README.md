@@ -43,11 +43,13 @@
   - 구조적으로 개발하기 위해 많은 노력을 기울였습니다. 무엇하나 대충짜지 않고 웹 표준, 접근성, 구조적인 CSS, 클래스 상속관계 전부다 녹였습니다.
   - ![ES6+](https://img.shields.io/badge/-ES6+-029A67) ![TypeScript](https://img.shields.io/badge/-TypeScript-0D0BF6) ![HTML](https://img.shields.io/badge/-HTML-brightgreen) ![CSS](https://img.shields.io/badge/-CSS-green) ![Jest](https://img.shields.io/badge/-Jest-36F6BB)
 
+<!--
 - 음악 연습 Manager App For Tablet
   - 추후 작업 예정
   - 음악 연습 루틴 관리, 알람을 통한 체계적인 연습을 가능토록 해주는 App.
   - 여러 곡의 악보를 연습하다보면 인간의 힘으로 시간분배 하는 것에 한계가 생겨 놓치는 곡이 발생합니다. 루틴을 만들고 이 루틴을 기반으로 연습을 진행해 나가도록 하는 기능을 개발할 예정입니다.
   - ![React_Native](https://img.shields.io/badge/-React_Native-896DA1) ![Expo_CLI](https://img.shields.io/badge/-Expo_CLI-47A3B9) ![TypeScript](https://img.shields.io/badge/-TypeScript-0D0BF6)
+-->
 
 ## Education
 
