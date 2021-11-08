@@ -89,54 +89,54 @@
 ### Languages
 
 - 주 사용언어
-  - ![Javascript](https://img.shields.io/badge/-Javascript-E0FD4D) ![ES5](https://img.shields.io/badge/-ES5-yellowgreen) ![ES6+](https://img.shields.io/badge/-ES6+-029A67) ![PHP](https://img.shields.io/badge/-PHP-red) ![HTML](https://img.shields.io/badge/-HTML-brightgreen) ![CSS](https://img.shields.io/badge/-CSS-green)
+  - Javascript, ES5, ES6+, PHP, HTML, CSS
 - 서브언어
-  - ![Python](https://img.shields.io/badge/-Python-E46C0E) ![JAVA](https://img.shields.io/badge/-JAVA-14AAAB) ![C](https://img.shields.io/badge/-C-E1C59B) ![C++](https://img.shields.io/badge/-C++-87941E)
+  - Python, JAVA, C, C++
 
 ### Frameworks and Libraries
 
 - 프론트엔드 개발
-  - ![React](https://img.shields.io/badge/-React-63B5F4) ![JQuery](https://img.shields.io/badge/-JQuery-yellow) ![Ext.js](https://img.shields.io/badge/-Ext.js-orange) ![Emotion](https://img.shields.io/badge/-Emotion-0B14C5) ![styled-components](https://img.shields.io/badge/-styled--components-D0BFE0) ![Cytoscape.js](https://img.shields.io/badge/-Cytoscape.js-A389C2) ![Chart.js](https://img.shields.io/badge/-Chart.js-10ACB4)
+  - React, JQuery, Ext.js
 - 백엔드 개발
-  - ![Express](https://img.shields.io/badge/-Express-01CFDE)
+  - Express, GraphQL, Prisma, Nexus
 - 상태관리
-  - ![Redux](https://img.shields.io/badge/-Redux-E95AE1) ![Redux-thunk](https://img.shields.io/badge/-Redux--thunk-E16CB6) ![Redux-saga](https://img.shields.io/badge/-Redux--saga-CC3851) ![Context_API](https://img.shields.io/badge/-Context_API-D8555F)
+  - Redux, Redux-thunk, Redux-saga, Context_API
 - 테스팅
-  - ![Jest](https://img.shields.io/badge/-Jest-36F6BB)
+  - Jest
 - Pre-Processing
-  - ![Sass](https://img.shields.io/badge/-Sass-15B232) ![Webpack](https://img.shields.io/badge/-Webpack-968D5D) ![Rollup](https://img.shields.io/badge/-Rollup-AD7F1A) ![Babel](https://img.shields.io/badge/-Babel-A82288) ![Sass_Module](https://img.shields.io/badge/-Sass_Module-B6DBA4) ![Typescript](https://img.shields.io/badge/-Typescript-0D0BF6)
+  - Sass, Webpack, Rollup, Babel, Sass_Module, Typescript
 
 ### DB
 
 - RDBMS
 
-  - ![MySQL](https://img.shields.io/badge/-MySQL-blue) ![Oracle](https://img.shields.io/badge/-Oracle-AB20EE)
+  - MySQL, Oracle
 
 - NoSQL
-  - ![MongoDB](https://img.shields.io/badge/-MongoDB-4FA09E)
+  - MongoDB
 
 ### Cloud Services
 
 - PaaS
-  - ![Docker](https://img.shields.io/badge/-Docker-3E9ACC)
+  - Docker
 - BaaS
-  - ![Firebase](https://img.shields.io/badge/-Firebase-98020B)
+  - Firebase
 
 ### OS
 
 - 사용환경
-  - ![Mac_OS_X](https://img.shields.io/badge/-Mac_OS_X-C9C4D8)
+  - Mac_OS_X
 - 서버
-  - ![Linux](https://img.shields.io/badge/-Linux-E63E4F) ![Windows_Server](https://img.shields.io/badge/-Windows_Server-1E4FF7)
+  - Linux, Windows_Server
 
 ### Tool Techniques
 
 - 코드 에디터
-  - ![VS_Code](https://img.shields.io/badge/-VS_Code-224D92) ![Sublime_Text](https://img.shields.io/badge/-Sublime_Text-B84709)
+  - VS_Code, Sublime_Text
 - Design Reading
-  - ![Figma](https://img.shields.io/badge/-Figma-EA1672) ![Photoshop](https://img.shields.io/badge/-Photoshop-73E8C9) ![Zeplin](https://img.shields.io/badge/-Zeplin-C57957)
+  - Figma, Photoshop, Zeplin
 - 생산성
-  - ![Emmet](https://img.shields.io/badge/-Emmet-4A7553) ![VIM](https://img.shields.io/badge/-VIM-black) ![Hammerspoon](https://img.shields.io/badge/-Hammerspoon-EA9B6A)
+  - Emmet, VIM, Hammerspoon
 
 ## Certificates
 
