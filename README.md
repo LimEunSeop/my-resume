@@ -109,9 +109,7 @@
 ### DB
 
 - RDBMS
-
   - MySQL, Oracle
-
 - NoSQL
   - MongoDB
 
