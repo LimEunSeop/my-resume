@@ -20,7 +20,7 @@
   - 2018.05 ~ 2020.06
   - 다수 대학교의 웹 프로그램(상담,신청,진단,설문 시스템 등등..) 백엔드와 더불어 화면단 개발에 참여하여, 여러 유형의 프로그램들의 비즈니스 로직을 파악하였고 기본에 충실한 개발능력을 배양하였습니다.
 
-### 개인 프로젝트
+<!-- ### 개인 프로젝트
 
 - [React Mini Projects](https://github.com/LimEunSeop/React-Mini-Projects)
 
@@ -41,7 +41,7 @@
   - 2020.12
   - HTML, CSS, Javascript 만을 이용하여 테스트코드까지 심혈을 기울여 만든 프로그램입니다.
   - 구조적으로 개발하기 위해 많은 노력을 기울였습니다. 무엇하나 대충짜지 않고 웹 표준, 접근성, 구조적인 CSS, 클래스 상속관계 전부다 녹였습니다.
-  - ![ES6+](https://img.shields.io/badge/-ES6+-029A67) ![TypeScript](https://img.shields.io/badge/-TypeScript-0D0BF6) ![HTML](https://img.shields.io/badge/-HTML-brightgreen) ![CSS](https://img.shields.io/badge/-CSS-green) ![Jest](https://img.shields.io/badge/-Jest-36F6BB)
+  - ![ES6+](https://img.shields.io/badge/-ES6+-029A67) ![TypeScript](https://img.shields.io/badge/-TypeScript-0D0BF6) ![HTML](https://img.shields.io/badge/-HTML-brightgreen) ![CSS](https://img.shields.io/badge/-CSS-green) ![Jest](https://img.shields.io/badge/-Jest-36F6BB) -->
 
 <!--
 - 음악 연습 Manager App For Tablet
