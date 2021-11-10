@@ -76,7 +76,7 @@
   - 프론트엔드 입문에 필요한 HTML, CSS, Javascript(ES5.1, ES6+), Rest API, Github 등의 지식을 웹표준 및 접근성을 적용한 실무활용 수준까지 교육
   - 실습자료 : [https://codepen.io/collection/XBRdVK](https://codepen.io/collection/XBRdVK)
 - 이젠컴퓨터아카데미 웹 UI,UX 디자이너&퍼블리셔 양성과정
-  - 2020.07 ~ 2020.12
+  - 2021.07 ~ 2021.12
   - 포토샵, 일러스트레이터를 배워 웹 디자인을 해보고 다양한 작품을 퍼블리싱 해보았습니다. emmet에 능숙해지도록 훈련했고 BEM 방법론의 정확한 사용법을 체득했으며, 레이아웃이 효율적이고 유지보수가 가능하도록 생각하고 코딩하는 연습을 많이 했습니다. 또한 최대한 React 를 활용하여 UI를 개발했습니다. 그리고 디자인 툴을 이용하여 여러 작품들을 따라만드는 연습도 했습니다. 이 과정에서 비율이나 디자인 의도같은것을 읽을줄 알게되었는데, 그 결과 디자인을 집요하게 똑같이 구현가능한 수준까지 올렸습니다. 디자인 툴을 다룰줄 알게 된 만큼 디자이너의 협업이 원활해질 것으로 기대합니다.
   - 산출물 : [퍼블리싱 프로젝트](https://github.com/LimEunSeop/Publishing-Projects-Index), [포토샵 연습자료](https://github.com/LimEunSeop/my-portfolio/tree/master/photoshop-portfolio), [일러스트레이터 연습자료 + 개인작](https://github.com/LimEunSeop/my-portfolio/tree/master/illustrator-portfolio)
 - [코드스피츠 3기](https://www.bsidesoft.com/6902)
