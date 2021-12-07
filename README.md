@@ -138,7 +138,7 @@
 - 코드 에디터
   - VS_Code, Sublime_Text
 - Design Reading
-  - Figma, Photoshop, Zeplin
+  - Figma, Photoshop, Illustrator, Zeplin
 - 생산성
   - Emmet, VIM, Hammerspoon
 
