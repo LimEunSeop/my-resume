@@ -10,7 +10,7 @@
 - 웹 표준, 시멘틱 마크업, 접근성을 준수한 개발, 크로스 브라우징, 반응형 웹 개발이 가능합니다.
 - 툴 테크닉을 좋아하여, 생산성 있는 코딩이 가능합니다.
 - 금방 적응하고 배워 퍼포먼스를 낼 자신이 있습니다.
-- [1건의 추천서](https://www.rocketpunch.com/@eunseoplim#references)가 있습니다
+- [2건의 추천서](https://www.rocketpunch.com/@eunseoplim#references)가 있습니다
 
 ## Experience
 
