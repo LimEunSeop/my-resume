@@ -1,6 +1,6 @@
 # 임은섭
 
-프론트엔드 개발자
+풀스택 개발자
 
 <a href="https://github.com/limeunseop/my-portfolio">![Portfolio](https://img.shields.io/badge/Portfolio-github.com%2Flimeunseop%2Fmy--portfolio-03B054.svg)</a> <a href="mailto:dmstjq92@gmail.com">![Email](https://img.shields.io/badge/email-dmstjq92@gmail.com-ea4335.svg)</a> <a href="https://medium.com/@dmstjq92">![Blog](https://img.shields.io/badge/blog-medium.com/@dmstjq92-303030.svg)</a> <a href="https://github.com/LimEunSeop">![Github](https://img.shields.io/badge/github-LimEunSeop-white.svg)</a>
 
