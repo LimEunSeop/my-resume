@@ -1,16 +1,18 @@
 # 임은섭
 
-풀스택 개발자
+프론트엔드 개발자
 
-<a href="https://github.com/limeunseop/my-portfolio">![Portfolio](https://img.shields.io/badge/Portfolio-github.com%2Flimeunseop%2Fmy--portfolio-03B054.svg)</a> <a href="mailto:dmstjq92@gmail.com">![Email](https://img.shields.io/badge/email-dmstjq92@gmail.com-ea4335.svg)</a> <a href="https://medium.com/@dmstjq92">![Blog](https://img.shields.io/badge/blog-medium.com/@dmstjq92-303030.svg)</a> <a href="https://github.com/LimEunSeop">![Github](https://img.shields.io/badge/github-LimEunSeop-white.svg)</a>
+<a href="https://github.com/limeunseop/my-portfolio">![Portfolio](https://img.shields.io/badge/Portfolio-github.com%2Flimeunseop%2Fmy--portfolio-03B054.svg)</a> <a href="mailto:dmstjq92@gmail.com"> <a href="https://velog.io/@seop">![Blog](https://img.shields.io/badge/blog-velog.io/@seop-303030.svg)</a> <a href="https://github.com/LimEunSeop">![Github](https://img.shields.io/badge/github-LimEunSeop-white.svg)</a>
 
 ## Summary
 
-- 웹 기술의 전반적인 기초지식을 고루 갖췄으며, IT세계에서 프로토콜 서비스가 동작하는 원리를 전체적인 큰 그림에서 이해할 수 있습니다.
+- React 유저입니다.
+- 모든 기술을 항상 정확히 공부하고자 노력하고 있습니다.
+- HTML, CSS에 대한 기본지식을 확실히 갖췄으며, 스스로 퍼블리싱할 수 있습니다.
 - 웹 표준, 시멘틱 마크업, 접근성을 준수한 개발, 크로스 브라우징, 반응형 웹 개발이 가능합니다.
-- 툴 테크닉을 좋아하여, 생산성 있는 코딩이 가능합니다.
-- 백엔드부터 프론트엔드, 아두이노와 라즈베리파이 등의 IoT까지 모두 꾸준히 취미로 즐기고 있습니다.
-- [2건의 추천서](https://www.rocketpunch.com/@eunseoplim#references)가 있습니다
+- 세벌식 유저이고, emmet을 사용하며, VSCode에 VIM 을 탑재하여 개발하는 것을 좋아합니다.
+- 팀원간 지식을 아낌없이 공유하는 것을 좋아합니다.
+- [2건의 추천서](https://www.rocketpunch.com/@eunseoplim#references)가 있습니다.
 
 ## Experience
 
@@ -20,9 +22,11 @@
   - 2018.05 ~ 2020.06
   - 다수 대학교의 웹 프로그램(상담,신청,진단,설문 시스템 등등..) 백엔드와 더불어 화면단 개발에 참여하여, 여러 유형의 프로그램들의 비즈니스 로직을 파악하였고 기본에 충실한 개발능력을 배양하였습니다.
   - 언어는 PHP, 데이터베이스는 MySQL를 사용하였고, 교직원이 데이터를 처리하기 위한 관리자페이지를 구현하기 위해 Ext.js 라이브러리를 사용하였습니다.
+  - 이 시기에 Javascript 와 React 공부를 시작하여 지금까지 꾸준히 발전해 나가고 있습니다.
 
 - [코나아이](https://konai.com/) - 웹개발
-  - 2021.01 ~ 근무중
+  - 코나카드와 관련된 웹 포탈 개발에 참여하고 있습니다.
+  - 2022.01 ~ 근무중
 
 <!-- ### 개인 프로젝트
 
@@ -63,7 +67,7 @@
 
   - 2008.03 ~ 2011.02
   - 학교공부를 충실히 한 결과 학습능력에 관해서는 기본을 확실히 갖추게 되었습니다.
-  - 한수 이북 명문고라 불렀던 학교생활을 하면서, "공부 잘 하는 사람들은 어떤 마음가짐을 가지고 세상을 살아가는가"에 대한 많은 인사이트를 얻었습니다. 그 중 한가지를 말씀드리자면, "항상 주어진 상황과 환경에 불평하지 않고 더 나아지기 위해 최선을 다 한다는 것" 이었습니다. 중요도에 따라서 힘을 분배하는것은 있겠지만, 지금 처한 환경, 해야할 것 등이 비록 자신과 맞지 않더라도 그럼에도 불구하고 "지금 해야할 것"이기 때문에 불평하지 않고 최선을 다 해야 한다는 것을 배워, 조직생활에 최선을 다 하는 능력을 가지게 되었습니다.
+  - 한수 이북 명문고라 불렀던 학교생활을 하면서, "공부 잘 하는 사람들은 어떤 마음가짐을 가지고 세상을 살아가는가"에 대한 많은 인사이트를 얻었습니다. 그 중 한가지를 말씀드리자면, "항상 주어진 상황과 환경에 불평하지 않고 더 나아지기 위해 최선을 다 한다는 것" 이었습니다. 중요도에 따라서 힘을 분배하는것은 있겠지만, 지금 처한 환경, 해야할 것 등이 비록 자신과 맞지 않더라도 그럼에도 불구하고 "지금 해야할 것"이기 때문에 불평하지 않고 더 나아지기 위하 극복방안을 마련하고 실천해야 한다는 것을 배워, 조직생활에 최선을 다 하는 능력을 가지게 되었습니다.
 
 - **대진대학교 컴퓨터공학과**
   - 2011.03 ~ 2017.02
@@ -98,51 +102,45 @@
 
 ### Languages
 
-- 주 사용언어
-  - Javascript, ES5, ES6+, PHP, HTML, CSS
-- 서브언어
-  - Python, JAVA, C, C++
+- 사용언어
+  - HTML, CSS, Javascript, Typescript, Java, PHP
 
 ### Frameworks and Libraries
 
 - 프론트엔드 개발
-  - React, JQuery, Ext.js
+  - React, JQuery, Ext.js, Sass, styled-component, webpack
 - 백엔드 개발
-  - Express, GraphQL, Prisma, Nexus
+  - Express
 - 상태관리
-  - Redux, Redux-thunk, Redux-saga, Context_API
+  - Mobx, Recoil
 - 테스팅
-  - Jest
-- Pre-Processing
-  - Sass, Webpack, Rollup, Babel, Sass_Module, Typescript
+  - jest, jest-dom, Testing Library, cypress
 
 ### DB
 
 - RDBMS
   - MySQL, Oracle
-- NoSQL
-  - MongoDB
 
-### Cloud Services
+<!-- ### Cloud Services
 
 - PaaS
   - Docker
 - BaaS
-  - Firebase
+  - Firebase -->
 
-### OS
+<!-- ### OS
 
 - 사용환경
   - Mac_OS_X
 - 서버
-  - Linux, Windows_Server
+  - Linux, Windows_Server -->
 
 ### Tool Techniques
 
 - 코드 에디터
   - VS_Code, Sublime_Text
 - Design Reading
-  - Figma, Photoshop, Illustrator, Zeplin
+  - Figma, Photoshop, Illustrator
 - 생산성
   - Emmet, VIM, Hammerspoon
 
