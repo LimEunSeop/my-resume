@@ -110,7 +110,7 @@
 - 프론트엔드 개발
   - React, JQuery, Ext.js, Sass, styled-component, webpack
 - 백엔드 개발
-  - Express
+  - Express, Spring Boot
 - 상태관리
   - Mobx, Recoil
 - 테스팅
