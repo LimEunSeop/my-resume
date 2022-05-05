@@ -138,7 +138,7 @@
 ### Tool Techniques
 
 - 코드 에디터
-  - VS_Code, Sublime_Text
+  - VS_Code, Sublime_Text, IntelliJ
 - Design Reading
   - Figma, Photoshop, Illustrator
 - 생산성
