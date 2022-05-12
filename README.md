@@ -78,11 +78,11 @@
 
 - [이듬 블랜디드 러닝 - React Framework](https://euid.dev/#/courses/react-framework)
   - 2020.07 ~ 2020.08
-  - 접근성 준수한 React Framework 을 실무에서 활용하는 수준으로 심도있게 교육.
+  - React 라이브러리 기본, Redux 기초, React 에서 접근성 준수하는법 교육
   - 산출물 : [TIL-React-Framework](https://github.com/LimEunSeop/TIL-React-Framework), [React-Mini-Projects](https://github.com/LimEunSeop/React-Mini-Projects)
 - [[FASTCAMPUS] 야무와 함께하는 프론트엔드 개발 시작하기 CAMP](https://github.com/yamoo9/front-end-programming-camp)
   - 2018.07 ~ 2018.10
-  - 프론트엔드 입문에 필요한 HTML, CSS, Javascript(ES5.1, ES6+), Rest API, Github 등의 지식을 웹표준 및 접근성을 적용한 실무활용 수준까지 교육
+  - 프론트엔드 입문에 필요한 HTML, CSS, Javascript(ES5.1, ES6+), Rest API, Github 등의 지식과 더불어 웹표준 및 접근성을 준수하는법 교육
   - 실습자료 : [https://codepen.io/collection/XBRdVK](https://codepen.io/collection/XBRdVK)
 - 이젠컴퓨터아카데미 웹 UI,UX 디자이너&퍼블리셔 양성과정
   - 2021.07 ~ 2021.12
