@@ -2,7 +2,8 @@
 
 프론트엔드 개발자
 
-<a href="https://github.com/limeunseop/my-portfolio">![Portfolio](https://img.shields.io/badge/Portfolio-github.com%2Flimeunseop%2Fmy--portfolio-03B054.svg)</a> <a href="mailto:dmstjq92@gmail.com"> <a href="https://velog.io/@seop">![Blog](https://img.shields.io/badge/blog-velog.io/@seop-303030.svg)</a> <a href="https://github.com/LimEunSeop">![Github](https://img.shields.io/badge/github-LimEunSeop-white.svg)</a>
+<a href="https://github.com/limeunseop/my-portfolio">![Portfolio](https://img.shields.io/badge/Portfolio-github.com%2Flimeunseop%2Fmy--portfolio-03B054.svg)</a> <a href="mailto:dmstjq92@gmail.com">
+<a href="https://velog.io/@seop">![Blog](https://img.shields.io/badge/blog-velog.io/@seop-303030.svg)</a>
 
 ## Summary
 
