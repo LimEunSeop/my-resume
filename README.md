@@ -14,6 +14,52 @@
 - 세벌식 유저이고, emmet을 사용하며, VSCode에 VIM 을 탑재하여 개발하는 것을 좋아합니다.
 - 팀원간 지식을 아낌없이 공유하는 것을 좋아합니다.
 - [2건의 추천서](https://www.rocketpunch.com/@eunseoplim#references)가 있습니다.
+  
+## Skills
+
+### Languages
+
+- 사용언어
+  - HTML, CSS, Javascript, Typescript, Java, PHP
+
+### Frameworks and Libraries
+
+- 프론트엔드 개발
+  - React, JQuery, Ext.js, Sass, styled-component, webpack
+- 백엔드 개발
+  - Express, Spring Boot
+- 상태관리
+  - Mobx, Recoil
+- 테스팅
+  - jest, jest-dom, Testing Library, cypress
+
+### DB
+
+- RDBMS
+  - MySQL, Oracle
+
+<!-- ### Cloud Services
+
+- PaaS
+  - Docker
+- BaaS
+  - Firebase -->
+
+<!-- ### OS
+
+- 사용환경
+  - Mac_OS_X
+- 서버
+  - Linux, Windows_Server -->
+
+### Tool Techniques
+
+- 코드 에디터
+  - VS_Code, Sublime_Text, IntelliJ
+- Design Reading
+  - Figma, Photoshop, Illustrator
+- 생산성
+  - Emmet, VIM, Hammerspoon
 
 ## Experience
 
@@ -101,52 +147,6 @@
 
 
 <!-- 스터디 시작하면 제목 추가 ## Activities -->
-
-## Skills
-
-### Languages
-
-- 사용언어
-  - HTML, CSS, Javascript, Typescript, Java, PHP
-
-### Frameworks and Libraries
-
-- 프론트엔드 개발
-  - React, JQuery, Ext.js, Sass, styled-component, webpack
-- 백엔드 개발
-  - Express, Spring Boot
-- 상태관리
-  - Mobx, Recoil
-- 테스팅
-  - jest, jest-dom, Testing Library, cypress
-
-### DB
-
-- RDBMS
-  - MySQL, Oracle
-
-<!-- ### Cloud Services
-
-- PaaS
-  - Docker
-- BaaS
-  - Firebase -->
-
-<!-- ### OS
-
-- 사용환경
-  - Mac_OS_X
-- 서버
-  - Linux, Windows_Server -->
-
-### Tool Techniques
-
-- 코드 에디터
-  - VS_Code, Sublime_Text, IntelliJ
-- Design Reading
-  - Figma, Photoshop, Illustrator
-- 생산성
-  - Emmet, VIM, Hammerspoon
 
 ## Certificates
 
