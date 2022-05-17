@@ -35,7 +35,7 @@
 ### Frameworks and Libraries
 
 - 프론트엔드 개발
-  - React, JQuery, Ext.js, Sass, styled-component, webpack
+  - React, JQuery, Ext.js, Sass, styled-component
 - 백엔드 개발
   - Express, Spring Boot
 - 상태관리
