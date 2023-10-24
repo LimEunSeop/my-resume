@@ -76,7 +76,7 @@
 
 ### 직무 경험
 
-상세 경력기술서는 다음 링크를 참고바랍니다: https://limeunseop.notion.site/2827a91dd8b5499d89b09033cf948a3c
+상세 경력기술서는 [여기](https://limeunseop.notion.site/2827a91dd8b5499d89b09033cf948a3c)를 참고바랍니다
 
 - [코나아이](https://konai.com/) - 웹개발
   - 2022.01 ~ 2022.07
