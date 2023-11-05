@@ -7,7 +7,7 @@
 <a href="https://limeunseop.notion.site/limeunseop/b56b7e9c10ef4616a76693e33b0bd1ee">![Notion](https://img.shields.io/badge/Notion-https%3A%2F%2Flimeunseop.notion.site%2Flimeunseop%2Fb56b7e9c10ef4616a76693e33b0bd1ee-%23fff)</a>
 <a href="mailto:dmstjq92@gmail.com">![Email](https://img.shields.io/badge/Email-dmstjq92@gmail.com-F6B638.svg)</a>
 
-## Summary
+<!-- ## Summary -->
 
 <!-- 저는 지식습득을 위해 많이 노력해왔고 이것이 점점 빛을 발휘하여, 귀사에 입사해서도 반드시 임무를 제대로 완수해 나가며 발전할 수 있는 인재임을 자신하고 있습니다. 그 이유는,
 
@@ -25,30 +25,34 @@
 
 ### Knowleges
 
-- HTML, CSS를 프로그래머의 관점에서 구조적으로 작성할 수 있습니다.
+- Next.js 속에서 서버사이드, 클라이언트사이드를 정확히 구분하여 코딩하는것이 가능합니다.
+- 효율적으로 재사용 가능한 컴포넌트 개발이 가능하며, 정확한 기준에 따른 인터페이스 정의가 가능합니다.
+- 기본적인 React Application 최적화 방법, 상황에 따라 최적화를 진행할 수 있는 유연함을 보유하고 있습니다.
+- HTML, CSS를 프로그래머의 관점에서 기본적으로 UI 프레임워크의 도움 없이 구조적으로 작성할 수 있습니다.
 - 웹 표준, 시멘틱 마크업, 접근성을 준수한 개발, 크로스 브라우징, 반응형 웹 개발이 가능합니다.
+- SEO를 적용하는 기본적인 방법을 알고있습니다.
 - Javascript의 실행 컨텍스트와 비동기성을 제대로 이해하고 있습니다.
 
 ### Languages
 
 - 사용언어
-  - HTML, CSS, Javascript, Typescript, Java, PHP
+  - ES6+, Typescript, HTML, CSS, Java, PHP
 
 ### Frameworks and Libraries
 
 - 프론트엔드 개발
-  - React, JQuery, Ext.js, Sass, styled-component
+  - React, Next.js, tailwindCSS, emotion, styled-component, react-hook-form, Material UI, Sass, JQuery, Ext.js
 - 백엔드 개발
-  - Express, Spring Boot
+  - prisma
 - 상태관리
-  - Mobx, Recoil
+  - Tanstack Query(Server state), Redux Toolkit(Client State)
 - 테스팅
   - jest, jest-dom, Testing Library, cypress
 
 ### DB
 
 - RDBMS
-  - MySQL, Oracle
+  - MySQL, PostgreSQL, Oracle
 
 <!-- ### Cloud Services
 
@@ -66,11 +70,11 @@
 
 ### Tool Techniques
 
-- 코드 에디터
-  - VS_Code, Sublime_Text, IntelliJ
+- 생산성
+  - eslint, prettier, husky
 - Design Reading
   - Figma, Photoshop, Illustrator
-- 생산성
+- Code Editing
   - Emmet, VIM, Hammerspoon
 
 ## Experience
