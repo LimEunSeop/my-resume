@@ -4,7 +4,7 @@
 
 <a href="https://github.com/limeunseop">![Github](https://img.shields.io/badge/Github-github.com%2Flimeunseop-03B054.svg)</a>
 <a href="https://velog.io/@seop">![Blog](https://img.shields.io/badge/blog-velog.io/@seop-303030.svg)</a>
-<a href="https://limeunseop.notion.site/limeunseop/b56b7e9c10ef4616a76693e33b0bd1ee">![Notion](https://img.shields.io/badge/Notion-https%3A%2F%2Flimeunseop.notion.site%2Flimeunseop%2Fb56b7e9c10ef4616a76693e33b0bd1ee-%23fff)</a>
+<a href="https://limeunseop.notion.site/2827a91dd8b5499d89b09033cf948a3c">![Notion](https://img.shields.io/badge/Notion-https%3A%2F%2Flimeunseop.notion.site%2F2827a91dd8b5499d89b09033cf948a3c-%23fff)</a>
 <a href="mailto:dmstjq92@gmail.com">![Email](https://img.shields.io/badge/Email-dmstjq92@gmail.com-F6B638.svg)</a>
 
 <!-- ## Summary -->
