@@ -41,7 +41,7 @@
 ### Frameworks and Libraries
 
 - 프론트엔드 개발
-  - React, Next.js, tailwindCSS, emotion, styled-component, react-hook-form, Material UI, Sass, JQuery, Ext.js
+  - React, Next.js, tailwindCSS, emotion, styled-component, react-hook-form, ApexChart, Material UI, Sass, JQuery, Ext.js
 - 백엔드 개발
   - prisma
 - 상태관리
