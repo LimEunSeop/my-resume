@@ -23,7 +23,7 @@
 
 ## Skills
 
-### Knowleges
+<!-- ### Knowleges
 
 - Next.js 환경에서 서버사이드, 클라이언트사이드를 정확히 구분하여 코딩하는것이 가능합니다.
 - 효율적으로 재사용 가능한 컴포넌트 개발이 가능합니다.
@@ -31,7 +31,7 @@
 - React 최적화를 위해 List Virtualization, 리렌더링 최적화를 한 경험이 있습니다. 이외에 브라우저 동작방식을 고려한 최적화도 가능합니다.
 - HTML, CSS를 기본적으로 UI 프레임워크의 도움 없이도 정확히 디자인 구현을 할 수 있으며, 프로그래머의 관점에서 구조적으로 마크업할 수 있습니다.
 - 웹 표준, 시멘틱 마크업, 접근성을 준수한 개발, 크로스 브라우징, 반응형 웹 개발이 가능합니다.
-- SEO를 향상시키는 개발이 가능합니다.
+- SEO를 향상시키는 개발이 가능합니다. -->
 
 ### Languages
 
@@ -141,7 +141,7 @@
   - ![React_Native](https://img.shields.io/badge/-React_Native-896DA1) ![Expo_CLI](https://img.shields.io/badge/-Expo_CLI-47A3B9) ![TypeScript](https://img.shields.io/badge/-TypeScript-0D0BF6)
 -->
 
-## Education
+<!-- ## Education
 
 ### 학교
 
@@ -150,7 +150,7 @@
   - 다방면의 IT 지식을 습득하는데 주력을 가했고, 언어는 특히 C언어를 많이 공부하여 컴퓨터구조, 메모리구조 관련하여 많은 성찰을 했습니다. 덕분에 쌓인 배경지식이 IT지식 학습력 향상과 깊이있는 프로그래밍 사고에 상당수 도움이 되었습니다.
   - Linux Server, Windows Server 등의 서버와 Cisco Networking 공부를 통해 IT 인프라의 기초적인 지식을 쌓아 IT세계에서 프로토콜이 동작하는 전체적인 원리를 파악할 수 있게 되었습니다.
 - **의정부고등학교**
-  - 2008.03 ~ 2011.02
+  - 2008.03 ~ 2011.02 -->
 
 <!-- ### 외부교육
 
